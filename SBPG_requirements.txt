@@ -1,0 +1,60 @@
+# Lazy Imports for Faster Prototyping
+pyforest  
+ 
+# # Automated Exploratory Data Analysis (EDA)
+# pandas-profiling  
+# ydata-profiling  
+# pydantic-settings  
+# sweetviz  
+ 
+# Data Handling and Manipulation
+pandas  
+numpy  
+scipy  
+xlrd  
+# openpyxl  
+# xlsxwriter  
+ 
+# Data Visualization
+matplotlib  
+seaborn  
+plotly  
+ 
+# Statistical and Scientific Computing
+statsmodels  
+ 
+# Machine Learning & Recommendation Systems
+scikit-learn 
+ 
+# lightfm  
+# xgboost  
+# optuna  
+ 
+# # Anomaly Detection & Feature Engineering
+# hdbscan  
+# umap-learn  
+# fastcluster  
+# joblib  
+ 
+# # API Development & Deployment
+# fastapi  
+# uvicorn  
+# gunicorn  
+# boto3  
+ 
+# # Dashboarding & Frontend Reporting
+# dash  
+# dash-bootstrap-components  
+ 
+# Version Control
+gitpython  
+ 
+# Additional Utilities
+# tqdm  
+# pygeocoder  
+# python-docx  
+# pypandoc  
+ 
+# # Sketching & Prototyping
+# sketch  
+ 
