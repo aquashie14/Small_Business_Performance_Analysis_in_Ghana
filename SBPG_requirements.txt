@@ -21,10 +21,10 @@ seaborn
 plotly  
  
 # Statistical and Scientific Computing
-statsmodels  
+# statsmodels  
  
 # Machine Learning & Recommendation Systems
-scikit-learn 
+# scikit-learn 
  
 # lightfm  
 # xgboost  
